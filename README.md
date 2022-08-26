@@ -11,7 +11,9 @@ This is an open invitation for all noblemen to contribute with your knowledge.
 # Usage
 > Technologies are open to everyone but please do not cause negative consequences.  
 
-If you notice something is wrong, please create a pull request to correct the fact. 
 The documents aims to be technical specifications that should evolve over time as new technologies come to light.  
 Product designers can then use the specification to design and build the product.  
 Products can then be marketted at a reasonable price for everyone to use.  
+
+
+If you notice something is wrong, please create a pull request to correct the fact. 
