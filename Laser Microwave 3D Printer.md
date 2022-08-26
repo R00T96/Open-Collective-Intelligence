@@ -55,15 +55,15 @@
 
 
 # Disclaimer
-We are humans
-We need this
-Technology is open to welcome innovation
-Written based on personal knowledge graphs
-Pull request updates are highly encouraged
+- We are humans
+- We need this
+- Technology is open to welcome innovation
+- Written based on personal knowledge graphs
+- Pull request updates are highly encouraged
 
 > Lets build some cool shit! Together.
 
-Do not abuse
-Do not cause harm
-Do not cause timeline misconfigurations
+- Do not abuse
+- Do not cause harm
+- Do not cause timeline misconfigurations
 
