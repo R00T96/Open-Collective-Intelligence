@@ -15,5 +15,6 @@ The documents aims to be technical specifications that should evolve over time a
 Product designers can then use the specification to design and build the product.  
 Products can then be marketted at a reasonable price for everyone to use.  
 
+If you have an idea you'd like built, create a file, add the idea in.
 
 If you notice something is wrong, please create a pull request to correct the fact. 
