@@ -1,3 +1,3 @@
 # Humanoid Skin
 
-TBD
+An artificial skin that `WE` can feel
