@@ -13,7 +13,7 @@ Upload the sequence to a comapny that does DNA translation.
 Get your solar seeds in mail!
 
 # DNA Sequence
-
+> TODO
 
 
 
