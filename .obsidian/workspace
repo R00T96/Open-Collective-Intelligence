@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "384226e3cccfa2f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "33b4c71eba019134",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "START_HERE.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "665c5034f3720d4b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Products/START.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4bc34afe6570e27",
+    "type": "split",
+    "children": [
+      {
+        "id": "911e26c38b8cb4d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45e51d1bc583d9c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "88e2a46a92aafacc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9a36c21a2f7f758b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "47fee5997dfd1bea",
+    "type": "split",
+    "children": [
+      {
+        "id": "ceba28a32c361629",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df859ca5fcfc9ed9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "START_HERE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f878d227042abd1a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "START_HERE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5297cc59fbddd2b8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "63caf42dcdacdac9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "START_HERE.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "33b4c71eba019134",
+  "lastOpenFiles": [
+    "Products/START.md",
+    "START_HERE.md",
+    "Products/Creation/Laser Microwave 3D Printer/src/Hardware/Parts.md",
+    "Products/Creation/Laser Microwave 3D Printer/Laser Microwave 3D Printer.md",
+    "Products/Creation/Laser Microwave 3D Printer/src/Design/Untitled.md",
+    "Products/Creation/Laser Microwave 3D Printer/src/Hardware/Blueprint.md",
+    "Products/Travel/Spaceship Skins.md",
+    "Products/Water/Portable Water Purifier/Portable Water Purifier.md",
+    "Products/Water/Desalination Plant/Desalination Plant.md",
+    "Products/Energy/Untitled.md"
+  ]
+}
